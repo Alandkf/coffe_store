@@ -2,6 +2,10 @@
 
 A responsive and modern website for Suli Coffee Shop located in Sulaimaniyah, showcasing the coffee shop's menu, gallery, and contact information.
 
+## Live Website
+
+Visit our website: [Suli Coffee Shop](https://alandkf.github.io/coffe_store/#contact-us)
+
 ## Overview
 
 This project is a fully responsive website for a coffee shop, featuring:
@@ -41,15 +45,15 @@ Easy-to-use navigation menu that collapses into a hamburger menu on smaller scre
 
 ## File Structure
 
-- `coffe.html` - Main HTML file
+- `index.html` - Main HTML file
 - `coff.css` - CSS styles
 - `script.js` - JavaScript functionality
-- Image files (various .jpg and .png files)
+- `images/` - Directory containing all image files
 
 ## Setup and Usage
 
 1. Clone or download the repository
-2. Open `coffe.html` in a web browser to view the website
+2. Open `index.html` in a web browser to view the website
 
 ## Browser Compatibility
 
